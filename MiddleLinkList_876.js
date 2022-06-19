@@ -19,3 +19,6 @@ var middleNode = function(head){
 
     return slow;
 }
+
+//T:O(n)
+//S:O(1)
