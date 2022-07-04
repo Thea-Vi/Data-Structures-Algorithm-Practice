@@ -18,7 +18,7 @@ Output: true
 
 */
 
-var isValid = functions(s){
+var isValid = function(s){
     const stack = [];
     const parens = '() {} []';
     let i = 0;
